@@ -1,0 +1,1 @@
+The webpage displays the commonly used CSS properties.
